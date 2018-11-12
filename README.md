@@ -6,7 +6,7 @@ If you are trying to learn how to manipulate data in python you have come to the
 
 This folder includs a jupyter notebook which goes over key functionality in pandas for data wrangling.
 
-Check out the [video](https://www.youtube.com) tutorial on youtube or the written [article](https://www.medium.com) on Medium. 
+Check out the [video](https://www.youtube.com) tutorial on youtube or the written [article](https://towardsdatascience.com/data-wrangling-with-pandas-5b0be151df4e) on Medium. 
 
 ## Overview
 
