@@ -19,5 +19,5 @@ Check out the [video](https://www.youtube.com) tutorial on youtube or the writte
 1. Other - Making descriptive columns, element-wise conditional operations
 
 ## Credits
-1. Data source: [UCI](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+1. Data source: [UCI](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
 1. Pandas functionality: [Documentation](https://pandas.pydata.org/)
