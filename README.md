@@ -1,8 +1,10 @@
 # Data Wrangling with Pandas
 
+If you are trying to learn how to manipulate data in python you have come to the right place. 
+
 ## What is this?
 
-This folder includs a jupyter notebook which goes over key functionality in pandas for data wrangling. If you are trying to learn how to manipulate datain python this is the perfect tutorial.
+This folder includs a jupyter notebook which goes over key functionality in pandas for data wrangling.
 
 Check out the [video](https://www.youtube.com) tutorial on youtube or the written [article](https://www.medium.com) on Medium.   
 
